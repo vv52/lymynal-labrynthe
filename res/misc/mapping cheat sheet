@@ -1,0 +1,26 @@
+0 - empty     - nothing
+1 - wall      - decorative
+2 - platform  - obstacle
+3 - badleaf   - hazard
+4 - exit      - stage
+5 - coin      - collectible
+6 - respawn   - stage
+7 - grass     - decorative
+8 - bush      - slow
+9 - spike     - hazard
+C - chest     - xcancel
+G - guts      - slow
+K - key       - lock
+L - lock      - lock
+l - lockleaf  - lock
+r - tombstone - decorative
+b - broken    - decorative
+B - return    - special
+D - sdoor     - special
+s - skey      - special
+w - swall     - decorative
+F - floating  - obstacle
+E - eye       - hazard
+I - inv eye   - hazard
+R - ring      - special
+S - sword     - special
